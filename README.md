@@ -10,7 +10,7 @@ This project is a web-based application that simulates stock buying and selling 
 
 
 # Tech Stack
-- Frontend: HTML, CSS, JavaScript (or React)
-- Backend: Node.js, Express (if applicable)
-- Database: MongoDB / MySQL (if used)
+- Frontend: HTML, CSS, Bootstrap, JavaScript & React.js
+- Backend: Node.js, Express.js 
+- Database: MongoDB 
 

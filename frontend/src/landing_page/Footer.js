@@ -8,7 +8,7 @@ function Footer() {
           <div className="col text-muted">
             <img src="media/images/logo.svg" style={{ width: "50%" }} />
             <p>
-              &copy; 2010 - 2024, Not Zerodha Broking Ltd. All rights reserved.
+              &copy; 2010 - 2024, Not Trading Broking Ltd. All rights reserved.
             </p>
             <br />
             <div className="social-icons d-flex gap-3 mt-2">
@@ -90,7 +90,7 @@ function Footer() {
               className="text-muted"
               style={{ textDecoration: "none", lineHeight: "2.5" }}
             >
-              Zerodha.tech
+              Trading.tech
             </a>
             <br />
             <a
@@ -106,7 +106,7 @@ function Footer() {
               className="text-muted"
               style={{ textDecoration: "none", lineHeight: "2.5" }}
             >
-              Zerodha cares (CSR)
+              Trading cares (CSR)
             </a>
             <br />
           </div>
@@ -183,15 +183,15 @@ function Footer() {
         </div>
         <div className="mt-5 text-muted" style={{ fontSize: "14px" }}>
           <p>
-            Zerodha Broking Ltd.: Member of NSE​ &​ BSE – SEBI Registration no.:
-            INZ000031633 CDSL: Depository services through Zerodha Securities
+            Trading Broking Ltd.: Member of NSE​ &​ BSE – SEBI Registration no.:
+            INZ000031633 CDSL: Depository services through Trading Securities
             Pvt. Ltd. – SEBI Registration no.: IN-DP-100-2015 Commodity Trading
-            through Zerodha Commodities Pvt. Ltd. MCX: 46025 – SEBI Registration
-            no.: INZ000038238 Registered Address: Zerodha Broking Ltd.,
+            through Trading Commodities Pvt. Ltd. MCX: 46025 – SEBI Registration
+            no.: INZ000038238 Registered Address: Trading Broking Ltd.,
             #153/154, 4th Cross, Dollars Colony, Opp. Clarence Public School,
             J.P Nagar 4th Phase, Bengaluru - 560078, Karnataka, India. For any
             complaints pertaining to securities broking please write to
-            complaints@zerodha.com, for DP related to dp@zerodha.com. Please
+            complaints Trading.com, for DP related to dp Trading.com. Please
             ensure you carefully read the Risk Disclosure Document as prescribed
             by SEBI | ICF
           </p>
@@ -223,7 +223,7 @@ function Footer() {
             of allotment. In case of non allotment the funds will remain in your
             bank account. As a business we don't give stock tips, and have not
             authorized anyone to trade on behalf of others. If you find anyone
-            claiming to be part of Zerodha and offering such services, please
+            claiming to be part of Trading and offering such services, please
             create a ticket here.
           </p>
         </div>
