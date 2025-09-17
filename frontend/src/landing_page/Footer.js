@@ -6,10 +6,10 @@ function Footer() {
       <div className="container border-top mt-5">
         <div className="row mt-5">
           <div className="col text-muted">
-            <img src="media/images/logo.svg" style={{ width: "50%" }} />
+            <img src="media/images/in-stock.png" style={{ width: "25%" }} />
             <p>
               &copy; 2010 - 2024, Not Trading Broking Ltd. All rights reserved.
-            </p>
+            </p> 
             <br />
             <div className="social-icons d-flex gap-3 mt-2">
               <a

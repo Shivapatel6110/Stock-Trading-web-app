@@ -13,6 +13,7 @@ import SupportPage from "./landing_page/support/SupportPage";
 import NotFound from "./landing_page/NotFound";
 import Navbar from "./landing_page/Navbar";
 import Footer from "./landing_page/Footer";
+import OpenAccount from "./landing_page/OpenAccount";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(

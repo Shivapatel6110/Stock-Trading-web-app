@@ -10,7 +10,7 @@ function Hero() {
         </h3>
       </div>
       <div className="row p-5 mt-5 text-center">
-        <div className="col-4 p-4">
+        <div className="col-4 p-4"> 
           <img src="media/images/pricingEquity.svg" />
           <h1 className="fs-3">Free equity delivery</h1>
           <p className="text-muted">
