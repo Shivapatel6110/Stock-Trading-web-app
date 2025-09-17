@@ -1,16 +1,62 @@
-# Stock-Buy-and-Sell
-This project is a web-based application that simulates stock buying and selling strategies. It helps users analyze historical stock price data and identify the best times to buy and sell for maximum profit. Built with modern web technologies, it aims to provide a simple and interactive UI for understanding basic trading logic.
+# 📈 Stock Trading Web Application
+
+A full-stack **MERN** stock trading web application that allows users to view real-time stock data, analyze trends, and simulate buy/sell trades.  
+This project is built for learning purposes and inspired by popular trading platforms — but designed from scratch with a custom UI and branding.
+
+---
+
+## 🚀 Features
+
+- 🔑 **User Authentication** – Signup, login, and secure sessions
+- 📊 **Real-time Stock Prices** – Live market data integration
+- 💹 **Simulated Trading** – Buy/sell mock trades to build a portfolio
+- 📈 **Portfolio Dashboard** – Track holdings, P/L, and watchlist
+- 🎨 **Responsive UI** – Built with React and TailwindCSS for all devices
+- 🌐 **REST API Backend** – Node.js + Express.js with MongoDB
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:** React, Tailwind CSS, Axios  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**APIs:** Stock Market API (AlphaVantage / Finnhub / any free API you used)
+
+---
+
+## 📷 Screenshots
+
+| Landing Page | Dashboard | Portfolio |
+|--------------|-----------|-----------|
+| ![Landing Page](frontend/public/media/images/in-stock.png)
+
+---
+
+## 📦 Installation & Setup
+
+Clone the repository:
+
+```bash
+git https://github.com/Shivapatel6110/Stock-Trading-web-app
+cd stock-trading-webapp
 
 
-# Features
-- Calculates max profit from stock prices
-- Supports multiple transactions (buy/sell)
-- Clean and responsive UI
-- Built using [specify tech stack: React, Node.js, etc.]
+Install Dependencies:
+
+# Install backend dependencies
+cd backend
+npm install
+
+# Install frontend dependencies
+cd ../frontend
+npm install
 
 
-# Tech Stack
-- Frontend: HTML, CSS, Bootstrap, JavaScript & React.js
-- Backend: Node.js, Express.js 
-- Database: MongoDB 
+Run the app:
+
+# In two separate terminals
+cd backend && npm start
+cd frontend && npm start
+
 
