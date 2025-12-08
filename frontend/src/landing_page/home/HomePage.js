@@ -19,7 +19,7 @@ function HomePage() {
       <Pricing />
       <Education />
       <OpenAccount />
-     
+      
     </>
   );
 }
