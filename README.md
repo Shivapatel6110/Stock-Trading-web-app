@@ -59,4 +59,12 @@ Run the app:
 cd backend && npm start
 cd frontend && npm start
 
+## Live Demo
+
+- Frontend: https://stock-trading-frontend-m3iw.onrender.com
+- Admin Dashboard: https://stock-trading-dashboard-e8md.onrender.com
+- Backend API: https://stock-trading-web-app.onrender.com
+
+Tech Stack: MERN (MongoDB, Express, React, Node), Render, MongoDB Atlas
+
 
