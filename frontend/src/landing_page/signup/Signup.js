@@ -15,10 +15,8 @@ function Signup() {
 
       <div className="row p-3 mt-3 ">
         <div className="col-8">
-          <img
-            src={`${process.env.PUBLIC_URL}/media/images/account_open.svg`}
-            alt="Account Open"
-          />
+          <img src="/media/images/account_open.svg" alt="Account Open" />
+
         </div>
 
         <div className="col-4">
