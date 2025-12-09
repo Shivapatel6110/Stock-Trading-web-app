@@ -21,7 +21,7 @@ This project is built for learning purposes and inspired by popular trading plat
 **Frontend:** React, Tailwind CSS, Axios  
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB  
-**APIs:** Stock Market API (AlphaVantage / Finnhub / any free API you used)
+**APIs:** Stock Market API (AlphaVantage)
 
 ---
 
@@ -59,11 +59,17 @@ Run the app:
 cd backend && npm start
 cd frontend && npm start
 
-## Live Demo
+## 🌐 Live Demo
 
-- Frontend: https://stock-trading-frontend-m3iw.onrender.com
-- Admin Dashboard: https://stock-trading-dashboard-e8md.onrender.com
-- Backend API: https://stock-trading-web-app.onrender.com
+- **Frontend:**  
+  👉 https://stock-trading-frontend-m3iw.onrender.com
+
+- **Admin Dashboard:**  
+  👉 https://stock-trading-dashboard-e8md.onrender.com
+
+- **Backend API:**  
+  👉 https://stock-trading-web-app.onrender.com
+
 
 Tech Stack: MERN (MongoDB, Express, React, Node), Render, MongoDB Atlas
 
