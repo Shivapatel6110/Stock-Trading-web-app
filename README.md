@@ -21,7 +21,7 @@ This project is built for learning purposes and inspired by popular trading plat
 **Frontend:** React, Tailwind CSS, Axios  
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB  
-**APIs:** Stock Market API (AlphaVantage / Finnhub / any free API you used)
+**APIs:** Stock Market API (AlphaVantage)
 
 ---
 
